@@ -4,7 +4,7 @@ Data-driven vulnerability discovery using pattern recognition and machine learni
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center"><img src="https://github.com/DanielLin1986/Data-Driven_Software_Vulnerability_Discovery/blob/master/Image/ATO_Ineligible_to_link.png"/> </td>
+    <td align="center"><img src="https://github.com/DanielLin1986/Data-Driven_Software_Vulnerability_Discovery/blob/master/Image/ATO_Ineligible_to_link.png" width="1024" height="768"/> </td>
   </tr>
   <tr>
     <td align="center">Fig. 1: The Data-Driven Software Vulnerability Discovery (SVD)</td>
