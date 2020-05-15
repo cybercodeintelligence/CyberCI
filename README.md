@@ -33,7 +33,7 @@ Data-driven vulnerability discovery using pattern recognition and machine learni
 ## Data
 
 * The function-level vulnerability dataset (labeled from C open-source projects) [Link] 
-* The synthetic vulnerability dataset (provided from the [SARD project](samate.nist.gov/SARD/view.php?tsID=108)) [Link]
+* The synthetic C/C++ vulnerability dataset (provided by the [SARD project](samate.nist.gov/SARD/view.php?tsID=108)) [Link]
 
 ## Contact:
 
