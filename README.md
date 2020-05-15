@@ -30,6 +30,11 @@ Data-driven vulnerability discovery using pattern recognition and machine learni
 * DL-based representation learning from multi-domains [[Code]](https://github.com/DanielLin1986/RepresentationsLearningFromMulti_domain)
 * Function-level vulnerability detection benchmark framework [[Code]](https://github.com/DanielLin1986/Function-level-Vulnerability-Detection)
 
+## Data
+
+* The function-level vulnerability dataset (labeled from C open-source projects) [Link] 
+* The synthetic vulnerability dataset (provided from the [SARD project](samate.nist.gov/SARD/view.php?tsID=108)) [Link]
+
 ## Contact:
 
 Any bug report or improvement suggestions regarding this repository will be appreciated. Please kindly cite the paper if you use the code/data in your work. For acquiring more information or inquiries, please contact: junzhang@swin.edu.au.
