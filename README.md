@@ -23,10 +23,12 @@ Data-driven vulnerability discovery using pattern recognition and machine learni
 ## Surveys
 
 * Code analysis for intelligent cyber systems: A data-driven approach (IS-2019) [[PDF]](https://github.com/DanielLin1986/Data-Driven_Software_Vulnerability_Discovery/blob/master/Papers/Code%20Analysis%20for%20Intelligent%20Cyber%20Systems-%20A%20Data-Driven%20Approach.pdf)
-* Software Vulnerability Detection Using Deep Neural Network A Survey (PIEEE-2020) [[PDF]](https://github.com/DanielLin1986//DanielLin1986/Data-Driven_Software_Vulnerability_Discovery/blob/master/Papers/Software%20Vulnerability%20Detection%20Using%20Deep%20Neural%20Network%20A%20Survey.pdf)
+* Software Vulnerability Detection Using Deep Neural Network: A Survey (PIEEE-2020) [[PDF]](https://github.com/DanielLin1986//DanielLin1986/Data-Driven_Software_Vulnerability_Discovery/blob/master/Papers/Software%20Vulnerability%20Detection%20Using%20Deep%20Neural%20Network%20A%20Survey.pdf)
 
 ## Tools
-
+* DL-based transfer representation learning [[Code]](https://github.com/DanielLin1986/TransferRepresentationLearning)
+* DL-based representation learning from multi-domains [[Code]](https://github.com/DanielLin1986/RepresentationsLearningFromMulti_domain)
+* Function-level vulnerability detection benchmark framework [[Code]](https://github.com/DanielLin1986/Function-level-Vulnerability-Detection)
 
 ## Contact:
 
