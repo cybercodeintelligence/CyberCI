@@ -4,11 +4,11 @@ This repository provides papers, code and tools that a beginner needs to start e
 
 # Content
   * [Introduction](#Introduction)
-  * [Technical Papers](#Technical Papers)
-  * [Surveys](#survey)
-  * Tools
-  * Data
-  * Contact
+  * [Papers](#Papers)
+  * [Surveys](#Surveys)
+  * [Tools](#Tools)
+  * [Data](#Data)
+  * [Contact](#Contact)
 
 # Introduction
 
@@ -23,30 +23,39 @@ Data-driven vulnerability discovery using pattern recognition and machine learni
   </tr>
 </table>
 
-## Technical Papers
+## Papers
 
- * POSTER:Vulnerability discovery with function representation learning from unlabeled projects (CCS-2017) [[PDF]](https://github.com/DanielLin1986/Data-Driven_Software_Vulnerability_Discovery/blob/master/Papers/POSTER-%20Vulnerability%20discovery%20with%20function%20representation%20learning%20from%20unlabeled%20projects.pdf)
- * Cross-project transfer representation learning for vulnerable function discovery (TII-2018) [[PDF]](https://github.com/DanielLin1986/Data-Driven_Software_Vulnerability_Discovery/blob/master/Papers/Cross-project%20transfer%20representation%20learning%20for%20vulnerable%20function%20discovery.pdf).
- * Deep Learning-Based Vulnerable Function Detection-A Benchmark (ICICS-2019) [[PDF]](https://github.com/DanielLin1986/Data-Driven_Software_Vulnerability_Discovery/blob/master/Papers/Deep%20Learning-Based%20Vulnerable%20Function%20Detection-%20A%20Benchmark.pdf)
- * Cyber Vulnerability Intelligence for Internet of Things Binary (TII-2019) [[PDF]](https://github.com/DanielLin1986/Data-Driven_Software_Vulnerability_Discovery/blob/master/Papers/Cyber%20Vulnerability%20Intelligence%20for%20Internet%20of%20Things%20Binary.pdf)
- * Software Vulnerability Discovery via Learning Multi-domain Knowledge Bases (TDSC-2020) [[PDF]](https://github.com/DanielLin1986/Data-Driven_Software_Vulnerability_Discovery/blob/master/Papers/Software%20Vulnerability%20Discovery%20via%20Learning%20Multi-domain%20Knowledge%20Bases.pdf)
- * DeepBalance- Deep-Learning and Fuzzy Oversampling for Vulnerability Detection (TFS-2020) [[PDF]](https://github.com/DanielLin1986/Data-Driven_Software_Vulnerability_Discovery/blob/master/Papers/DeepBalance-%20Deep-Learning%20and%20Fuzzy%20Oversampling%20for%20Vulnerability%20Detection.pdf)
- * CD-VulD-Cross-Domain Vulnerability Discovery based on Deep Domain Adaptation (TDSC-2020) [[PDF]](https://github.com/DanielLin1986/Data-Driven_Software_Vulnerability_Discovery/blob/master/Papers/CD-VulD-%20Cross-Domain%20Vulnerability%20Discovery%20based%20on%20Deep%20Domain%20Adaptation.pdf)
+ * POSTER:Vulnerability discovery with function representation learning from unlabeled projects (CCS-2017) 
+ [Paper] [Code]
+ * Cross-project transfer representation learning for vulnerable function discovery (TII-2018) 
+ [Paper] [Code]
+ * Deep Learning-Based Vulnerable Function Detection-A Benchmark (ICICS-2019) 
+ [Paper] [Code]
+ * Cyber Vulnerability Intelligence for Internet of Things Binary (TII-2019)  
+ [Paper] [Code]
+ * Software Vulnerability Discovery via Learning Multi-domain Knowledge Bases (TDSC-2020) 
+ [Paper] [Code]
+ * DeepBalance- Deep-Learning and Fuzzy Oversampling for Vulnerability Detection (TFS-2020) 
+ [Paper] [Code]
+ * CD-VulD-Cross-Domain Vulnerability Discovery based on Deep Domain Adaptation (TDSC-2020)
+ [Paper] [Code]
  
 ## Surveys
 
-* Code analysis for intelligent cyber systems: A data-driven approach (IS-2019) [[PDF]](https://github.com/DanielLin1986/Data-Driven_Software_Vulnerability_Discovery/blob/master/Papers/Code%20Analysis%20for%20Intelligent%20Cyber%20Systems-%20A%20Data-Driven%20Approach.pdf)
-* Software Vulnerability Detection Using Deep Neural Network: A Survey (PIEEE-2020) [[PDF]](https://github.com/DanielLin1986//DanielLin1986/Data-Driven_Software_Vulnerability_Discovery/blob/master/Papers/Software%20Vulnerability%20Detection%20Using%20Deep%20Neural%20Network%20A%20Survey.pdf)
+* Code analysis for intelligent cyber systems: A data-driven approach (IS-2019) 
+[Paper] [Code]
+* Software Vulnerability Detection Using Deep Neural Network: A Survey (PIEEE-2020)  
+[Paper] [Code]
 
 ## Tools
-* DL-based transfer representation learning [[Code]](https://github.com/DanielLin1986/TransferRepresentationLearning)
-* DL-based representation learning from multi-domains [[Code]](https://github.com/DanielLin1986/RepresentationsLearningFromMulti_domain)
 * Function-level vulnerability detection benchmark framework [[Code]](https://github.com/DanielLin1986/Function-level-Vulnerability-Detection)
 
 ## Data
 
-* The function-level vulnerability dataset (labeled from C open-source projects) [Link] 
-* The synthetic C/C++ vulnerability dataset (provided by the [SARD project](samate.nist.gov/SARD/view.php?tsID=108)) [Link]
+* The function-level vulnerability dataset (labeled from C open-source projects) [[Link]](https://liveswinburneeduau-my.sharepoint.com/:u:/g/personal/junzhang_swin_edu_au/EZ6D_mlcgLdOsdlRC1ngnKUBru7S9luQSnfFh5bZA_GNVw?e=vzElow) 
+* The synthetic C/C++ vulnerability dataset (provided by the [SARD project](samate.nist.gov/SARD/view.php?tsID=108)) 
+[[Vulnerable functions]](https://liveswinburneeduau-my.sharepoint.com/:u:/g/personal/junzhang_swin_edu_au/EZ4Y30cSmIJMr7dhi_eon34B5EcTO0_aVPjmIH4pS7j-PQ?e=d9qNJe)
+[[Non-vulnerable functions]](https://liveswinburneeduau-my.sharepoint.com/:u:/g/personal/junzhang_swin_edu_au/EeV6OlOaJEhKjfKwnlawezYB7WVTgBaiuTdw3PEjAFfJjQ?e=sCMhwS)
 
 ## Contact
 
