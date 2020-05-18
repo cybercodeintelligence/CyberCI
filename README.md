@@ -4,7 +4,7 @@ This repository provides papers, code and tools that a beginner needs to start e
 
 # Content
   * [Introduction](#Introduction)
-  * [Technical Papers](#Technical Papers)
+  * [Technical Papers](#user-content-technical-papers)
   * [Surveys](#Surveys)
   * [Tools](#Tools)
   * [Data](#Data)
