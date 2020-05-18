@@ -4,7 +4,7 @@ This repository provides papers, code and tools that a beginner needs to start e
 
 # Content
   * [Introduction](#Introduction)
-  * [Papers](#Papers)
+  * [Technical Papers](#Technical Papers)
   * [Surveys](#Surveys)
   * [Tools](#Tools)
   * [Data](#Data)
@@ -23,7 +23,7 @@ Data-driven vulnerability discovery using pattern recognition and machine learni
   </tr>
 </table>
 
-## Papers
+## Technical Papers
 
  * POSTER:Vulnerability discovery with function representation learning from unlabeled projects (CCS-2017) 
  [Paper] [Code]
