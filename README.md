@@ -1,5 +1,17 @@
 # Data-Driven Software Vulnerability Discovery (SVD)
 
+This repository provides papers, code and tools that a beginner needs to start exploring the field of data-driven SVD.
+
+# Content
+  * [Introduction](#Introduction)
+  * [Technical Papers](#Technical Papers)
+  * [Surveys](#survey)
+  * Tools
+  * Data
+  * Contact
+
+# Introduction
+
 Data-driven vulnerability discovery using pattern recognition and machine learning (ML) provides alternative solutions for automated and potentially more efficient software vulnerability discovery. Particularly, The booming of the open source software community has made vast amounts of software code available, which allows machine learning and data mining techniques to exploit abundant patterns within software code. This repository lists the technical papers, developed tools and surveys of the Cyber Code Intelligence Research in the NSCLab, Swinburne University of Technology, Australia.
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
@@ -36,7 +48,7 @@ Data-driven vulnerability discovery using pattern recognition and machine learni
 * The function-level vulnerability dataset (labeled from C open-source projects) [Link] 
 * The synthetic C/C++ vulnerability dataset (provided by the [SARD project](samate.nist.gov/SARD/view.php?tsID=108)) [Link]
 
-## Contact:
+## Contact
 
 Any bug report or improvement suggestions regarding this repository will be appreciated. Please kindly cite the paper if you use the code/data in your work. For acquiring more information or inquiries, please contact: junzhang@swin.edu.au.
 
