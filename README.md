@@ -90,9 +90,9 @@ Data-driven vulnerability discovery using pattern recognition and machine learni
 
 |Dataset|# of vulnerable samples|# of non-vulnerable  samples|# of total samples|Compiled Environment|  
 |:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|  
-|CWE-119| 7,916| 7,474| 15,390|
-|LibTIFF| 26| 776| 802|
-|VLC Player| 36| 3,895| 3,931|  
+|CWE-119| 7,916| 7,474| 15,390|Windows|
+|LibTIFF| 26| 776| 802|Windows|
+|VLC Player| 36| 3,895| 3,931|Windows|  
 
 For binary code compiled in Linux system, please contact junzhang@swin.edu.au.
 
