@@ -62,6 +62,7 @@ Data-driven vulnerability discovery using pattern recognition and machine learni
 ## Data
 
 * The function-level vulnerability dataset (labeled from C open-source projects) [[Link]](https://liveswinburneeduau-my.sharepoint.com/:u:/g/personal/junzhang_swin_edu_au/EZ6D_mlcgLdOsdlRC1ngnKUBru7S9luQSnfFh5bZA_GNVw?e=vzElow)  
+
 |Open-source projects|# of non-vulnerable files collected|# of vulnerable files collected|# of non-vulnerable functions collected|# of vulnerable functions collected|
 | :------------ |:---------------:|:---------------:|:---------------:|:---------------:|
 |Asterisk| 862 |84 |17,755 |94|
@@ -74,15 +75,26 @@ Data-driven vulnerability discovery using pattern recognition and machine learni
 |VLC Player| 616| 45 |6,115 |44|
 |Xen |738 |370 |9,023 |671|
 |**Total**|**4,460**|**1,320**|**59,297**|**1,471**|
+
 * The synthetic C/C++ vulnerability dataset (provided by the [SARD project](samate.nist.gov/SARD/view.php?tsID=108))   
 [[Vulnerable functions]](https://liveswinburneeduau-my.sharepoint.com/:u:/g/personal/junzhang_swin_edu_au/EZ4Y30cSmIJMr7dhi_eon34B5EcTO0_aVPjmIH4pS7j-PQ?e=d9qNJe)
-[[Non-vulnerable functions]](https://liveswinburneeduau-my.sharepoint.com/:u:/g/personal/junzhang_swin_edu_au/EeV6OlOaJEhKjfKwnlawezYB7WVTgBaiuTdw3PEjAFfJjQ?e=sCMhwS)  
-|Dataset| # of test cases|# of vulnerable C functions|# of non-vulnerable C functions|  
+[[Non-vulnerable functions]](https://liveswinburneeduau-my.sharepoint.com/:u:/g/personal/junzhang_swin_edu_au/EeV6OlOaJEhKjfKwnlawezYB7WVTgBaiuTdw3PEjAFfJjQ?e=sCMhwS) 
+
+|Dataset|# of test cases|# of vulnerable C functions|# of non-vulnerable C functions|  
+|:---------------:|:---------------:|:---------------:|:---------------:|  
 |The SARD project| 64,099| 83,710| 52,290|  
+
 * Cross-Domain Vulnerability Discovery  
 [[Link]](https://liveswinburneeduau-my.sharepoint.com/:u:/g/personal/junzhang_swin_edu_au/EcMpq2sn0LFOrR4UFTgjd-gBAujvppZaMSZ-0nxjBb6WkA?e=gONFuR)
-* Cyber Vulnerability Intelligence for IoT (binary data)    
-[[Link]](https://liveswinburneeduau-my.sharepoint.com/:u:/g/personal/junzhang_swin_edu_au/EfVeUDOIQ5lMhSuuTW_aNbcB5uG6owYcWnVUxq7yQ1ZLtw?e=PpjokH)
+* Cyber Vulnerability Intelligence for IoT (binary data) [[Link]](https://liveswinburneeduau-my.sharepoint.com/:u:/g/personal/junzhang_swin_edu_au/EfVeUDOIQ5lMhSuuTW_aNbcB5uG6owYcWnVUxq7yQ1ZLtw?e=PpjokH)
+
+|Dataset|# of vulnerable samples|# of non-vulnerable  samples|# of total samples|Compiled Environment|  
+|:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|  
+|CWE-119| 7,916| 7,474| 15,390|
+|LibTIFF| 26| 776| 802|
+|VLC Player| 36| 3,895| 3,931|  
+
+For binary code compiled in Linux system, please contact junzhang@swin.edu.au.
 
 ## Contact
 
