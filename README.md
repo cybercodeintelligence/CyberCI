@@ -103,7 +103,7 @@ For binary code compiled in Linux system, please contact junzhang@swin.edu.au.
 
 ## Contact
 
-Any bug report or improvement suggestions regarding the code and data in this repository will be appreciated. Please kindly cite the paper listed if you use the code/data in your work. For acquiring more information or inquiries, please contact: junzhang@swin.edu.au.
+We welcome researchers to use our code/data. Please kindly cite the paper listed if you use the code/data in your work. Any bug report or improvement suggestions regarding the code and data in this repository will be appreciated. For acquiring more information, inquiries and bug report please contact: junzhang@swin.edu.au. 
 
 Thanks!
 
