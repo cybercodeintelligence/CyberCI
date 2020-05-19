@@ -96,10 +96,10 @@ Data-driven vulnerability discovery using pattern recognition and machine learni
 
 For binary code compiled in Linux system, please contact junzhang@swin.edu.au.
 
-###### We have shared our data/code to researchers in:
-China：Guangzhou University, Xidian University, Hangzhou Dianzi University, Fujian Normal University, Yunnan Normal University, Huazhong University of Science and Technology, Sanming University  
-Australia: Deakin University, Monash University, Melbourne University, RMIT University, University of Technology Sydney  
-Japan: Ritsumeikan University
+#### We have shared our data/code to researchers in:
+**China**: Guangzhou University, Xidian University, Hangzhou Dianzi University, Fujian Normal University, Yunnan Normal University, Huazhong University of Science and Technology, Sanming University  
+**Australia**: Deakin University, Monash University, Melbourne University, RMIT University, University of Technology Sydney  
+**Japan**: Ritsumeikan University
 
 ## Contact
 
