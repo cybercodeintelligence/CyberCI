@@ -30,7 +30,7 @@ Data-driven vulnerability discovery using pattern recognition and machine learni
  * Cross-project transfer representation learning for vulnerable function discovery (TII-2018)   
  [Paper] [[Python Code]](https://github.com/DanielLin1986/TransferRepresentationLearning)
  * Deep Learning-Based Vulnerable Function Detection-A Benchmark (ICICS-2019)   
- [Paper] [Python Code](https://github.com/DanielLin1986/Function-level-Vulnerability-Detection)
+ [Paper] [[Python Code]](https://github.com/DanielLin1986/Function-level-Vulnerability-Detection)
  * Cyber Vulnerability Intelligence for Internet of Things Binary (TII-2019)     
  [Paper] [[Python Code]](https://github.com/wolong3385/BiVulD) [[Video]](https://www.youtube.com/watch?v=11Ps1iU-DzA)
  * Software Vulnerability Discovery via Learning Multi-domain Knowledge Bases (TDSC-2020)   
@@ -38,7 +38,7 @@ Data-driven vulnerability discovery using pattern recognition and machine learni
  * DeepBalance- Deep-Learning and Fuzzy Oversampling for Vulnerability Detection (TFS-2020)   
  [Paper] [Code]
  * CD-VulD-Cross-Domain Vulnerability Discovery based on Deep Domain Adaptation (TDSC-2020)  
- [Paper] [Matlab Code](https://github.com/wolong3385/SVD-Source)
+ [Paper] [[Matlab Code]](https://github.com/wolong3385/SVD-Source)
  
 ## Surveys
 
@@ -67,9 +67,9 @@ Data-driven vulnerability discovery using pattern recognition and machine learni
 [[Vulnerable functions]](https://liveswinburneeduau-my.sharepoint.com/:u:/g/personal/junzhang_swin_edu_au/EZ4Y30cSmIJMr7dhi_eon34B5EcTO0_aVPjmIH4pS7j-PQ?e=d9qNJe)
 [[Non-vulnerable functions]](https://liveswinburneeduau-my.sharepoint.com/:u:/g/personal/junzhang_swin_edu_au/EeV6OlOaJEhKjfKwnlawezYB7WVTgBaiuTdw3PEjAFfJjQ?e=sCMhwS)
 * Cross-Domain Vulnerability Discovery  
-[[Data]](https://liveswinburneeduau-my.sharepoint.com/:u:/g/personal/junzhang_swin_edu_au/EcMpq2sn0LFOrR4UFTgjd-gBAujvppZaMSZ-0nxjBb6WkA?e=gONFuR)
+[[Link]](https://liveswinburneeduau-my.sharepoint.com/:u:/g/personal/junzhang_swin_edu_au/EcMpq2sn0LFOrR4UFTgjd-gBAujvppZaMSZ-0nxjBb6WkA?e=gONFuR)
 * Cyber Vulnerability Intelligence for IoT  
-[[Data]](https://liveswinburneeduau-my.sharepoint.com/:u:/g/personal/junzhang_swin_edu_au/EfVeUDOIQ5lMhSuuTW_aNbcB5uG6owYcWnVUxq7yQ1ZLtw?e=PpjokH)
+[[Link]](https://liveswinburneeduau-my.sharepoint.com/:u:/g/personal/junzhang_swin_edu_au/EfVeUDOIQ5lMhSuuTW_aNbcB5uG6owYcWnVUxq7yQ1ZLtw?e=PpjokH)
 
 ## Contact
 
