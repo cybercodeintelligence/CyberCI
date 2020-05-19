@@ -1,6 +1,6 @@
-# Data-Driven Software Vulnerability Discovery (SVD)
+# Cyber Code Intelligence
 
-This repository provides papers, code and tools that a beginner needs to start exploring the field of data-driven SVD.
+This repository provides papers, code and tools that a beginner needs to start exploring the field of Data-Driven Software Vulnerability Discovery (SVD).
 
 # Content
   * [Introduction](#Introduction)
@@ -12,7 +12,7 @@ This repository provides papers, code and tools that a beginner needs to start e
 
 # Introduction
 
-Data-driven vulnerability discovery using pattern recognition and machine learning (ML) provides alternative solutions for automated and potentially more efficient software vulnerability discovery. Particularly, The booming of the open source software community has made vast amounts of software code available, which allows machine learning and data mining techniques to exploit abundant patterns within software code. This repository lists the technical papers, developed tools and surveys of the Cybersecurity Code Intelligence Research in the NSCLab, Swinburne University of Technology, Australia.
+Data-driven vulnerability discovery using pattern recognition and machine learning (ML) provides alternative solutions for automated and potentially more efficient software vulnerability discovery. Particularly, The booming of the open source software community has made vast amounts of software code available, which allows machine learning and data mining techniques to exploit abundant patterns within software code. This repository lists the technical papers, developed tools and surveys of the Cyber Code Intelligence Research in the NSCLab, Swinburne University of Technology, Australia.
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -26,40 +26,54 @@ Data-driven vulnerability discovery using pattern recognition and machine learni
 ## Technical Papers
 
  * POSTER:Vulnerability discovery with function representation learning from unlabeled projects (CCS-2017)   
- [Paper] [[Code] Python](https://github.com/DanielLin1986/function_representation_learning)
+ [Paper] [[Python Code]](https://github.com/DanielLin1986/function_representation_learning)
  * Cross-project transfer representation learning for vulnerable function discovery (TII-2018)   
- [Paper] [Code]
+ [Paper] [[Python Code]](https://github.com/DanielLin1986/TransferRepresentationLearning)
  * Deep Learning-Based Vulnerable Function Detection-A Benchmark (ICICS-2019)   
- [Paper] [Code]
+ [Paper] [Python Code](https://github.com/DanielLin1986/Function-level-Vulnerability-Detection)
  * Cyber Vulnerability Intelligence for Internet of Things Binary (TII-2019)     
- [Paper] [Code]
+ [Paper] [[Python Code]](https://github.com/wolong3385/BiVulD) [[Video]](https://www.youtube.com/watch?v=11Ps1iU-DzA)
  * Software Vulnerability Discovery via Learning Multi-domain Knowledge Bases (TDSC-2020)   
- [Paper] [Code]
+ [Paper] [[Python Code]](https://github.com/DanielLin1986/RepresentationsLearningFromMulti_domain)
  * DeepBalance- Deep-Learning and Fuzzy Oversampling for Vulnerability Detection (TFS-2020)   
  [Paper] [Code]
  * CD-VulD-Cross-Domain Vulnerability Discovery based on Deep Domain Adaptation (TDSC-2020)  
- [Paper] [Code]
+ [Paper] [Matlab Code](https://github.com/wolong3385/SVD-Source)
  
 ## Surveys
 
-* Code analysis for intelligent cyber systems: A data-driven approach (IS-2019)   
-[Paper] [Code]
-* Software Vulnerability Detection Using Deep Neural Network: A Survey (PIEEE-2020)    
-[Paper] [Code]
+* Code analysis for intelligent cyber systems: A data-driven approach (Information Science-2019)   
+[Paper]
+* Software Vulnerability Detection Using Deep Neural Network: A Survey (Proceedings of the IEEE-2020)    
+[Paper]
 
 ## Tools
-* Function-level vulnerability detection benchmark framework [[Code]](https://github.com/DanielLin1986/Function-level-Vulnerability-Detection)
+* Function-level vulnerability detection benchmark framework    
+[[Python Code]](https://github.com/DanielLin1986/Function-level-Vulnerability-Detection)
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td align="center"><img src="https://github.com/DanielLin1986/Data-Driven_Software_Vulnerability_Discovery/blob/master/Image/Function_level_vulnerability_detection_framework.png" width="543" height="289"/> </td>
+  </tr>
+  <tr>
+    <td align="center">Fig. 2: The deep-learning-based function-level vulnerability detection framework.</td>
+  </tr>
+</table>
 
 ## Data
 
-* The function-level vulnerability dataset (labeled from C open-source projects) [[Link]](https://liveswinburneeduau-my.sharepoint.com/:u:/g/personal/junzhang_swin_edu_au/EZ6D_mlcgLdOsdlRC1ngnKUBru7S9luQSnfFh5bZA_GNVw?e=vzElow) 
-* The synthetic C/C++ vulnerability dataset (provided by the [SARD project](samate.nist.gov/SARD/view.php?tsID=108)) 
+* The function-level vulnerability dataset (labeled from C open-source projects)  
+[[Link]](https://liveswinburneeduau-my.sharepoint.com/:u:/g/personal/junzhang_swin_edu_au/EZ6D_mlcgLdOsdlRC1ngnKUBru7S9luQSnfFh5bZA_GNVw?e=vzElow) 
+* The synthetic C/C++ vulnerability dataset (provided by the [SARD project](samate.nist.gov/SARD/view.php?tsID=108))   
 [[Vulnerable functions]](https://liveswinburneeduau-my.sharepoint.com/:u:/g/personal/junzhang_swin_edu_au/EZ4Y30cSmIJMr7dhi_eon34B5EcTO0_aVPjmIH4pS7j-PQ?e=d9qNJe)
 [[Non-vulnerable functions]](https://liveswinburneeduau-my.sharepoint.com/:u:/g/personal/junzhang_swin_edu_au/EeV6OlOaJEhKjfKwnlawezYB7WVTgBaiuTdw3PEjAFfJjQ?e=sCMhwS)
+* Cross-Domain Vulnerability Discovery  
+[[Data]](https://liveswinburneeduau-my.sharepoint.com/:u:/g/personal/junzhang_swin_edu_au/EcMpq2sn0LFOrR4UFTgjd-gBAujvppZaMSZ-0nxjBb6WkA?e=gONFuR)
+* Cyber Vulnerability Intelligence for IoT  
+[[Data]](https://liveswinburneeduau-my.sharepoint.com/:u:/g/personal/junzhang_swin_edu_au/EfVeUDOIQ5lMhSuuTW_aNbcB5uG6owYcWnVUxq7yQ1ZLtw?e=PpjokH)
 
 ## Contact
 
-Any bug report or improvement suggestions regarding this repository will be appreciated. Please kindly cite the paper if you use the code/data in your work. For acquiring more information or inquiries, please contact: junzhang@swin.edu.au.
+Any bug report or improvement suggestions regarding the code and data in this repository will be appreciated. Please kindly cite the paper listed if you use the code/data in your work. For acquiring more information or inquiries, please contact: junzhang@swin.edu.au.
 
 Thanks!
 
