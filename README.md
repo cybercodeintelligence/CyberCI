@@ -76,7 +76,7 @@ Data-driven vulnerability discovery using pattern recognition and machine learni
 |**Total** |**4,460** |**1,320**|**59,297**| **1,471**|
 * The synthetic C/C++ vulnerability dataset (provided by the [SARD project](samate.nist.gov/SARD/view.php?tsID=108))   
 [[Vulnerable functions]](https://liveswinburneeduau-my.sharepoint.com/:u:/g/personal/junzhang_swin_edu_au/EZ4Y30cSmIJMr7dhi_eon34B5EcTO0_aVPjmIH4pS7j-PQ?e=d9qNJe)
-[[Non-vulnerable functions]](https://liveswinburneeduau-my.sharepoint.com/:u:/g/personal/junzhang_swin_edu_au/EeV6OlOaJEhKjfKwnlawezYB7WVTgBaiuTdw3PEjAFfJjQ?e=sCMhwS)
+[[Non-vulnerable functions]](https://liveswinburneeduau-my.sharepoint.com/:u:/g/personal/junzhang_swin_edu_au/EeV6OlOaJEhKjfKwnlawezYB7WVTgBaiuTdw3PEjAFfJjQ?e=sCMhwS)  
 |Dataset| # of test cases|# of vulnerable C functions|# of non-vulnerable C functions|
 |:---------------:|:---------------:|:---------------:|:---------------:|
 |The SARD project| 64,099| 83,710| 52,290|
