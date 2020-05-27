@@ -1,6 +1,6 @@
 # Cyber Code Intelligence
 
-This repository provides papers, code and tools that a beginner needs to start exploring the field of Cyber Code Intelligence (CCI).
+This repository provides papers, code and tools that a beginner needs to start exploring the field of Cyber Code Intelligence (CyberCI).
 
 # Content
   * [Introduction](#Introduction)
@@ -12,14 +12,14 @@ This repository provides papers, code and tools that a beginner needs to start e
 
 # Introduction
 
-The CCI is data-driven code analysis using pattern recognition and machine learning (ML), which provides alternative solutions for automated, potentially more intelligent and efficient code analysis and processing. Particularly, The booming of the open source software community has made vast amounts of software code available, which allows machine learning and data mining techniques to exploit abundant patterns within software code. This repository lists the technical papers, developed tools and surveys of the CCI Research in the NSCLab, Swinburne University of Technology, Australia.
+The CyberCI is data-driven code analysis using pattern recognition and machine learning (ML), which provides alternative solutions for automated, potentially more intelligent and efficient code analysis and processing. Particularly, The booming of the open source software community has made vast amounts of software code available, which allows machine learning and data mining techniques to exploit abundant patterns within software code. This repository lists the technical papers, developed tools and surveys of the CyberCI Research in the NSCLab, Swinburne University of Technology, Australia.
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <td align="center"><img src="https://github.com/DanielLin1986/Data-Driven_Software_Vulnerability_Discovery/blob/master/Image/ATO_Ineligible_to_link.png" width="1000" height="400"/> </td>
   </tr>
   <tr>
-    <td align="center">Fig. 1: The Data-Driven Software Vulnerability Discovery (SVD)</td>
+    <td align="center">Fig. 1: The Cyber Code Intelligence (CyberCI)</td>
   </tr>
 </table>
 
