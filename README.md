@@ -12,7 +12,7 @@ This repository provides papers, code and tools that a beginner needs to start e
 
 # Introduction
 
-The CyberCI is data-driven code analysis using pattern recognition and machine learning (ML), which provides alternative solutions for automated, potentially more intelligent and efficient code analysis and processing. Particularly, The booming of the open source software community has made vast amounts of software code available, which allows machine learning and data mining techniques to exploit abundant patterns within software code. This repository lists the technical papers, developed tools and surveys of the CyberCI Research in the NSCLab, Swinburne University of Technology, Australia.
+The CyberCI is data-driven code analysis using pattern recognition and machine learning (ML), which provides alternative solutions for automated, potentially more intelligent and efficient code analysis and processing. Particularly, The booming of the open source software community has made vast amounts of software code available, which allows machine learning and data mining techniques to exploit abundant patterns within software code. This repository lists the technical papers, developed tools and surveys of the CyberCI Research from the NSCLab, Swinburne University of Technology, Australia, for newbies who are interested in applying the state-of-the-art ML techniques for code analysis and processing.
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
