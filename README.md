@@ -16,7 +16,7 @@ The CCI is data-driven code analysis using pattern recognition and machine learn
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center"><img src="https://github.com/DanielLin1986/Data-Driven_Software_Vulnerability_Discovery/blob/master/Image/ATO_Ineligible_to_link.png" width="1000" height="440"/> </td>
+    <td align="center"><img src="https://github.com/DanielLin1986/Data-Driven_Software_Vulnerability_Discovery/blob/master/Image/ATO_Ineligible_to_link.png" width="1000" height="400"/> </td>
   </tr>
   <tr>
     <td align="center">Fig. 1: The Data-Driven Software Vulnerability Discovery (SVD)</td>
