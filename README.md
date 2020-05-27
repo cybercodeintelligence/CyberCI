@@ -1,6 +1,6 @@
 # Cyber Code Intelligence
 
-This repository provides papers, code and tools that a beginner needs to start exploring the field of Data-Driven Software Vulnerability Discovery (SVD).
+This repository provides papers, code and tools that a beginner needs to start exploring the field of Cyber Code Intelligence (CCI).
 
 # Content
   * [Introduction](#Introduction)
@@ -12,7 +12,7 @@ This repository provides papers, code and tools that a beginner needs to start e
 
 # Introduction
 
-Data-driven vulnerability discovery using pattern recognition and machine learning (ML) provides alternative solutions for automated and potentially more efficient software vulnerability discovery. Particularly, The booming of the open source software community has made vast amounts of software code available, which allows machine learning and data mining techniques to exploit abundant patterns within software code. This repository lists the technical papers, developed tools and surveys of the Cyber Code Intelligence Research in the NSCLab, Swinburne University of Technology, Australia.
+The CCI is data-driven code analysis using pattern recognition and machine learning (ML), which provides alternative solutions for automated, potentially more intelligent and efficient code analysis and processing. Particularly, The booming of the open source software community has made vast amounts of software code available, which allows machine learning and data mining techniques to exploit abundant patterns within software code. This repository lists the technical papers, developed tools and surveys of the CCI Research in the NSCLab, Swinburne University of Technology, Australia.
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
@@ -26,24 +26,24 @@ Data-driven vulnerability discovery using pattern recognition and machine learni
 ## Technical Papers
 
  * POSTER:Vulnerability discovery with function representation learning from unlabeled projects (CCS-2017)   
- [Paper] [[Python Code]](https://github.com/DanielLin1986/function_representation_learning)
+ [[Paper]](https://dl.acm.org/doi/abs/10.1145/3133956.3138840) [[Python Code]](https://github.com/DanielLin1986/function_representation_learning)
  * Cross-project transfer representation learning for vulnerable function discovery (TII-2018)   
- [Paper] [[Python Code]](https://github.com/DanielLin1986/TransferRepresentationLearning)
+ [[Paper]](https://ieeexplore.ieee.org/abstract/document/8329207) [[Python Code]](https://github.com/DanielLin1986/TransferRepresentationLearning)
  * Deep Learning-Based Vulnerable Function Detection-A Benchmark (ICICS-2019)   
- [Paper] [[Python Code]](https://github.com/DanielLin1986/Function-level-Vulnerability-Detection)
+ [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-41579-2_13) [[Python Code]](https://github.com/DanielLin1986/Function-level-Vulnerability-Detection)
  * Cyber Vulnerability Intelligence for Internet of Things Binary (TII-2019)     
- [Paper] [[Python Code]](https://github.com/wolong3385/BiVulD) [[Video]](https://www.youtube.com/watch?v=eoOFrz8e0DE)
+ [[Paper]](https://ieeexplore.ieee.org/abstract/document/8892533) [[Python Code]](https://github.com/wolong3385/BiVulD) [[Video]](https://www.youtube.com/watch?v=eoOFrz8e0DE)
  * Software Vulnerability Discovery via Learning Multi-domain Knowledge Bases (TDSC-2020)   
- [Paper] [[Python Code]](https://github.com/DanielLin1986/RepresentationsLearningFromMulti_domain)
+ [[Paper]](https://ieeexplore.ieee.org/abstract/document/8906156) [[Python Code]](https://github.com/DanielLin1986/RepresentationsLearningFromMulti_domain)
  * DeepBalance- Deep-Learning and Fuzzy Oversampling for Vulnerability Detection (TFS-2020)   
- [Paper] [Code]
+ [[Paper]](https://ieeexplore.ieee.org/abstract/document/8930093/) [Code]
  * CD-VulD-Cross-Domain Vulnerability Discovery based on Deep Domain Adaptation (TDSC-2020)  
- [Paper] [[Matlab Code]](https://github.com/wolong3385/SVD-Source)
+ [[Paper]](https://ieeexplore.ieee.org/abstract/document/9054952) [[Matlab Code]](https://github.com/wolong3385/SVD-Source)
  
 ## Surveys
 
 * Code analysis for intelligent cyber systems: A data-driven approach (Information Science-2019)   
-[Paper]
+[[Paper]](https://www.sciencedirect.com/science/article/pii/S0020025520302164)
 * Software Vulnerability Detection Using Deep Neural Network: A Survey (Proceedings of the IEEE-2020)    
 [Paper]
 
