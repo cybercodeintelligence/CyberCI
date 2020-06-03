@@ -3,9 +3,9 @@
 This repository provides papers, code and tools that a beginner needs to start exploring the field of Cyber Code Intelligence (CyberCI).
 
 # Content
-  * [Introduction](#Introduction)
+  * [Introduction](#introduction)
   * [Technical Papers](#technical-papers)
-  * [Surveys](#Surveys)
+  * [Surveys](#surveys)
   * [Tools](#Tools)
   * [Data](#Data)
   * [Contact](#Contact)
