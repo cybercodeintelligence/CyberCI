@@ -16,7 +16,7 @@ The CyberCI is data-driven code analysis using pattern recognition and machine l
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center"><img src="https://github.com/DanielLin1986/Data-Driven_Software_Vulnerability_Discovery/blob/master/Image/ATO_Ineligible_to_link.png" width="1000" height="400"/> </td>
+    <td align="center"><img src="./Image/ATO_Ineligible_to_link.png" width="1000" height="400"/> </td>
   </tr>
   <tr>
     <td align="center">Fig. 1: The Cyber Code Intelligence (CyberCI)</td>
@@ -52,7 +52,7 @@ The CyberCI is data-driven code analysis using pattern recognition and machine l
 [[Python Code]](https://github.com/DanielLin1986/Function-level-Vulnerability-Detection)
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center"><img src="https://github.com/DanielLin1986/Data-Driven_Software_Vulnerability_Discovery/blob/master/Image/Function_level_vulnerability_detection_framework.png" width="543" height="289"/> </td>
+    <td align="center"><img src="./Image/Function_level_vulnerability_detection_framework.png" width="543" height="289"/> </td>
   </tr>
   <tr>
     <td align="center">Fig. 2: The deep-learning-based function-level vulnerability detection framework.</td>
