@@ -44,8 +44,8 @@ The CyberCI is data-driven code analysis using pattern recognition and machine l
 
 * Code analysis for intelligent cyber systems: A data-driven approach (Information Science-2019)   
 [[Paper]](https://www.sciencedirect.com/science/article/pii/S0020025520302164)
-* Software Vulnerability Detection Using Deep Neural Network: A Survey (Proceedings of the IEEE-2020)    
-[Paper]
+* Software Vulnerability Detection Using Deep Neural Networks: A Survey (Proceedings of the IEEE-2020)    
+[[Paper]](https://ieeexplore.ieee.org/document/9108283)
 
 ## Tools
 * Function-level vulnerability detection benchmark framework    
