@@ -7,7 +7,7 @@ This repository provides papers, code and tools that a beginner needs to start e
   * [Technical Papers](#technical-papers)
   * [Surveys](#surveys)
   * [Tools](#tools)
-  * [Data](#data)
+  * [Data](#data: souruce code & binary code)
   * [Contact](#contact)
 
 ## Introduction
@@ -86,15 +86,15 @@ The CyberCI is data-driven code analysis using pattern recognition and machine l
 
 * Cross-Domain Vulnerability Discovery  
 [[Link]](https://liveswinburneeduau-my.sharepoint.com/:u:/g/personal/junzhang_swin_edu_au/EcMpq2sn0LFOrR4UFTgjd-gBAujvppZaMSZ-0nxjBb6WkA?e=gONFuR)
-* Cyber Vulnerability Intelligence for IoT (binary data) [[Link]](https://liveswinburneeduau-my.sharepoint.com/:u:/g/personal/junzhang_swin_edu_au/EfVeUDOIQ5lMhSuuTW_aNbcB5uG6owYcWnVUxq7yQ1ZLtw?e=PpjokH)
+* Cyber Vulnerability Intelligence for IoT (binary data) [[Link1]](https://liveswinburneeduau-my.sharepoint.com/:u:/g/personal/junzhang_swin_edu_au/EfVeUDOIQ5lMhSuuTW_aNbcB5uG6owYcWnVUxq7yQ1ZLtw?e=PpjokH) & [[Link2]](https://liveswinburneeduau-my.sharepoint.com/:u:/g/personal/junzhang_swin_edu_au/EXIDCbncqdVFu2E-nHI8KioBqAnHClEthkoYowQsc4IS_A?e=Fqcni7)
 
 |Dataset|# of vulnerable samples|# of non-vulnerable  samples|# of total samples|Compiled Environment|  
 |:---------------:|:---------------:|:---------------:|:---------------:|:---------------:|  
 |CWE-119| 7,916| 7,474| 15,390|Windows|
 |LibTIFF| 26| 776| 802|Windows|
 |VLC Player| 36| 3,895| 3,931|Windows|  
-
-For binary code compiled in Linux system, please contact junzhang@swin.edu.au.
+|VLC Player (updated)| 36| 5,242| 5,278|Windows| 
+|Asterisk| 50| 9,964| 10,014|Windows| 
 
 ## Contact
 
